@@ -1,0 +1,23 @@
+body{
+    background-color: darkcyan;
+}
+h1{
+    font-size: 40px;
+    color:forestgreen;
+}
+h2 {
+    color: red; 
+    font-size: 20px;
+}
+.cool{
+    font-size: 60px;
+}
+.uppercase{
+    text-transform: uppercase;
+}
+.cool.uppercase{
+    color: navy;
+}
+h1 span{
+    color: lime; 
+}
