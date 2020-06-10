@@ -16,7 +16,7 @@ h1, h2{
 }
 
 header h1{
-    color: white; 
+    color: lightseagreen; 
     font-size: 50px;
     
 }
@@ -24,7 +24,7 @@ header h1{
 header img{
     border-radius: 170px;
     width: 300px;
-    border: 20px solid white; 
+    border: 20px solid lightseagreen; 
 }
 
 main{
